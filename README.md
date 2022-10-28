@@ -6,7 +6,7 @@
 ## Dataset Description
 
 * Pada challenge ini, data diakses menggunakan `bigquery-public-data` pada Google Cloud Big Query.
-* Gunakan database `thelook_ecommerce`.
+* Menggunakan database `thelook_ecommerce`.
 
 
 ## Problems
